@@ -1,57 +1,90 @@
 <div align="center">
-  <h1> The Best ATS Resume Builder for Tech Placements</h1>
+  <h1>The Best AI-Powered Resume Builder & ATS Scanner</h1>
   
   <img src="https://img.shields.io/badge/Status-Live-success" alt="Status" />
   <img src="https://img.shields.io/badge/Access-Free-blue" alt="Free Tool" />
   <img src="https://img.shields.io/badge/Tech-AI_Powered-purple" alt="AI Powered" />
 
-  <p><i>Stop fighting with LaTeX compiler errors. Generate 1-page, heavily optimized, ATS-friendly PDFs instantly.</i></p>
+  <p><i>Stop fighting with formatting. Generate 1-page, ATS-optimized PDFs instantly using AI.</i></p>
 
-  <h3>👉 <a href="https://www.cvinsight.me">Build Your Free Resume at CVInsight.me</a> 👈</h3>
+  <h3><a href="https://www.cvinsight.me">Build Your Free Resume at CVInsight.me</a></h3>
+  <br>
+  <img src="cvinsight_new_page.jpg" alt="CVInsight Landing Page" width="800">
 </div>
 
 ---
 
-##  The Problem: Why 90% of Resumes Fail the ATS
-After analyzing thousands of resumes for tech placements, I found that most engineering students have the right skills, but fail the initial screening because of **formatting**. 
+## The Problem: Blank Page Anxiety and ATS Rejection
+A second-year engineering student recently asked me: *"How do I make a resume from scratch?"* He had the skills and the projects, but he was stuck staring at a blank page, terrified of formatting errors and ATS auto-rejection. 
 
-If you use Canva, complex Word documents, or bad LaTeX templates with thin margins, the Applicant Tracking System (ATS) cannot parse your text. It reads your resume as a blank page, and you get auto-rejected before a human ever sees it.
-
-##  The Solution: CVInsight
-I built **CVInsight** to be the best resume builder specifically tailored for SDEs, frontend/backend developers, and engineering students. It takes the pain out of resume formatting and uses AI to enhance your impact.
+Your resume is the highest ROI investment for your career, but you shouldn’t need to become a designer or a LaTeX expert just to create one. I built CVInsight to bridge that gap. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Naveen-Beniwal/ats-resume-templates/main/ResultFromCvisnight.png" alt="CVInsight Before and After" width="800">
+  <img src="ResultFromCvisnight.png" alt="CVInsight Before and After Formatting" width="800">
 </p>
 
 ---
 
-##  Core Features
+## Two Paths to Build Your Resume
 
-### 1.  AI-Powered Job Tailoring (One-Click)
-Stop rewriting your resume for every single application. Paste the job description into CVInsight, and our AI will automatically restructure your bullet points, inject the correct keywords, and highlight the exact skills the recruiter is looking for.
+### 1. Upload & Polish (For Speed)
+Perfect if you already have a rough draft or a basic PDF.
+* Upload your existing resume.
+* The system extracts your profile.
+* Edit and improve your projects and achievements in plain text.
+* Instantly generate your resume across multiple premium, ATS-ready templates.
 
-### 2.  Instant ATS Scoring
-Before you download your PDF, CVInsight runs your resume against recruiter-level parsing metrics. It gives you a score and tells you exactly what is missing (e.g., "Missing impact metrics in Project 2" or "Action verbs needed in Experience section").
+### 2. The LaTeX Power Builder (For Academic/Tech Precision)
+Perfect if you want a premium, highly structured LaTeX resume without writing the code.
+* Fill in your details in simple text fields.
+* Get AI-enhanced, highly optimized LaTeX code generated for you.
+* We even include official university templates (like the NIT Kurukshetra Official format).
 
-### 3.  Zero-Code Premium Templates
-You get access to heavily engineered, 1-page templates without writing a single line of code:
-* **The Apex:** The bulletproof layout for FAANG and enterprise placements.
-* **The Hacker (Terminal):** A dark-mode, command-line style resume for DevOps and Web3 startups.
-* **The Modern:** A sleek two-column layout for UI/UX and Frontend roles.
-* **The Minimalist:** A purely typography-driven design for academic and research roles.
+<p align="center">
+  <img src="LatexBuilder.png" alt="LaTeX Resume Builder Interface" width="800">
+</p>
 
-### 4.  Privacy First
-Your data is yours. CVInsight processes your details to build the PDF, but we do not sell your personal data to third-party brokers.
+---
+
+## The AI Career Suite (Beyond Formatting)
+CVInsight is not just a template generator; it is a comprehensive career intelligence platform.
+
+### Brutal AI Resume Roasting
+Stop guessing what recruiters think. Our AI acts as a senior technical recruiter, giving you the ruthless truth about your profile. It identifies your "Gold" (metrics to highlight) and your "Dust" (filler words to delete).
+
+<p align="center">
+  <img src="interview_help.jpg" alt="AI Resume Roast Feedback" width="800">
+</p>
+
+### Your Personal AI Career Consultant
+Ask the AI specific questions about your career trajectory, skill gaps, and salary expectations based on your exact profile and current market data.
+
+<p align="center">
+  <img src="interview_questions.jpg" alt="AI Career Consultant Interface" width="800">
+</p>
+
+### Company-Specific Optimization
+Different companies look for different signals. Select your target company (Google, Microsoft, Amazon, etc.), and the AI will analyze their job requirements, engineering culture, and hiring patterns to provide highly specific optimization advice for your bullet points.
+
+<p align="center">
+  <img src="company_specific_preparation.jpg" alt="Company Specific Optimization" width="800">
+</p>
 
 ---
 
-##  How to get started
-You don't need to install anything or clone any repositories. 
-1. Go to **[CVInsight.me](https://www.cvinsight.me)**
-2. Select your preferred template.
-3. Enter your details in plain English (or upload your old resume to let the AI fix it).
-4. Download your perfect, ATS-ready PDF.
+## 5 Job-Tailored Resume Strategies
+Do not send the exact same resume to a startup and a FAANG company. CVInsight allows you to change your resume's strategic positioning with one click:
+
+1. **Recruiter Friendly:** Best for referrals and HR reviews. Clean, natural wording.
+2. **ATS Optimized:** Best for online job portals. Strong keyword matching for scanners.
+3. **Competitive Edge:** Best for startups. Stronger positioning on ownership and impact.
+4. **Campus Ready:** Best for internships and fresher on-campus placements.
+5. **Top Tech:** Best for Google, Microsoft, Amazon. Focuses on scale, metrics, and engineering depth.
 
 ---
-*Built by a student, for students. If CVInsight helps you secure an interview, please consider dropping a ⭐ on this repository so others can find it!*
+
+### [Stop struggling with formatting. Get started for free at CVInsight.me](https://www.cvinsight.me)
+
+<br>
+
+*Built by a student, for students. If CVInsight helps you secure an internship or full-time offer, please consider dropping a star on this repository to help others find it.*
