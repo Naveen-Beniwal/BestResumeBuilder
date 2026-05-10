@@ -9,7 +9,7 @@
 
   <h3><a href="https://www.cvinsight.me">Build Your Free Resume at CVInsight.me</a></h3>
   <br>
-  <img src="cvinsight_new_page.jpg" alt="CVInsight Landing Page" width="800">
+  <img src="cvinsight_new_page.png" alt="CVInsight Landing Page" width="800">
 </div>
 
 ---
@@ -60,14 +60,14 @@ Stop guessing what recruiters think. Our AI acts as a senior technical recruiter
 Ask the AI specific questions about your career trajectory, skill gaps, and salary expectations based on your exact profile and current market data.
 
 <p align="center">
-  <img src="interview_questions.jpg" alt="AI Career Consultant Interface" width="800">
+  <img src="interview_questions.png" alt="AI Career Consultant Interface" width="800">
 </p>
 
 ### Company-Specific Optimization
 Different companies look for different signals. Select your target company (Google, Microsoft, Amazon, etc.), and the AI will analyze their job requirements, engineering culture, and hiring patterns to provide highly specific optimization advice for your bullet points.
 
 <p align="center">
-  <img src="company_specific_preparation.jpg" alt="Company Specific Optimization" width="800">
+  <img src="company_specific_preparation.png" alt="Company Specific Optimization" width="800">
 </p>
 
 ---
