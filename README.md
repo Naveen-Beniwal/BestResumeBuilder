@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>The Best AI-Powered Resume Builder & ATS Scanner</h1>
+  <h1>Free AI ATS Resume Builder </h1>
   
   <img src="https://img.shields.io/badge/Status-Live-success" alt="Status" />
   <img src="https://img.shields.io/badge/Access-Free-blue" alt="Free Tool" />
