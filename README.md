@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Tech-AI_Powered-purple" alt="AI Powered" />
 
 
-<h3><a href="https://www.cvinsight.me/interview-stories">Click here to Read Our Interview Stories?</a></h3>
+
 
   <p><i>Stop fighting with formatting. Generate 1-page, ATS-optimized PDFs instantly using AI.</i></p>
 
